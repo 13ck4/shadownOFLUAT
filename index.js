@@ -13,4 +13,4 @@ function shadowizard(options){
         }
     })
 }
-module.exports.shadowizard = shadowizard;
+module.exports.shadowluat = shadowizard;
